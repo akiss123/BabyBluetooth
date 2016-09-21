@@ -1,5 +1,5 @@
 
-![](http://images.jumppo.com/uploads/BabyBluetooth_logo.png)
+![](logo.png)
 
 The easiest way to use Bluetooth (BLE )in ios,even bady can use. 简单易用的蓝牙库，基于CoreBluetooth的封装，并兼容ios和mac osx.
 
@@ -16,6 +16,9 @@ The easiest way to use Bluetooth (BLE )in ios,even bady can use. 简单易用的
 - 9:同时支持蓝牙设备中心模式和外设模式（central model and peripheral model）
 
 当前版本 0.7.0 
+
+[更新说明](https://github.com/coolnameismy/BabyBluetooth/wiki/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E)
+
 
 详细文档请参考wiki The full documentation of the project is available on its wiki.
 # [english readme link,please click it!](https://github.com/coolnameismy/BabyBluetooth/blob/master/README_en.md)
@@ -208,10 +211,8 @@ step2:导入.h文件
 - 本项目和示例程序是使用ios 8.3开发，使用者可以自行降版本，但必须大于6.0 
 
 
-
 # 后期更新
-
-- 优化babyBluetooch的子类类名
+ 
 - 增加对Carthage Install的支持
 - [swift版本开发,目前项目已经兼容swift，详细见这里](https://github.com/coolnameismy/BabyBluetooth-swift)
 
@@ -229,16 +230,23 @@ step2:导入.h文件
 - [官方CoreBuetooth支持页](https://developer.apple.com/bluetooth)
 - [Bluetooth Accessory Design Guidelines for Apple Products](https://developer.apple.com/hardwaredrivers/BluetoothDesignGuidelines.pdf)
 
-qq交流群5: 426082944
-qq交流群4: 313084771(满）
-qq交流群3：530142592(满）
-qq交流群2：168756967(满）
-qq交流群1：426603940(满)
+
+# 组织和交流
+- qq交流群5: 426082944
+- qq交流群4: 313084771(满）
+- qq交流群3：530142592(满）
+- qq交流群2：168756967(满）
+- qq交流群1：426603940(满)
+- 个人微信公众号
+
+![个人微信公众号](qrcode.jpg)
 
 # 期待
 
   - 蓝牙库写起来很辛苦，不要忘记点击右上角小星星star和[follow](https://github.com/coolnameismy)支持一下~
   - 如果在使用过程中遇到BUG，或发现功能不够用，希望你能Issues我，谢谢
+  - 如果你的app用到了Babybluetooth，希望你能发邮件（[coolnameismy@hotmail.com](mailto:coolnameismy@hotmail.com?subject=Babybluetooth用在的了我们的app中)）告诉我，我会在readme中展现出来。
   - 期待大家也能一起为BabyBluetooth输出代码，这里我只是给BabyBluetooth开了个头，他可以增加和优化的地方还是非常多。也期待和大家在Pull Requests一起学习，交流，成长。
+  
 
 
